@@ -6,8 +6,6 @@ As illustrated below, each image pair includes five captions, with red circles m
 
 ![Architecture Image](images/dataset.png)
 
-## Dataset Download
-
 The ARS-CC dataset is available for download via Baidu Netdisk:
 
 [**Download ARS-CC Dataset**](https://pan.baidu.com/s/1Dr70ObvSdHCrEewRqDdl5Q)
