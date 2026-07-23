@@ -10,6 +10,5 @@ As illustrated below, each image pair includes five captions, with red circles m
 
 We report the captioning results of our DF-MSRformer model on 12 types of target changes below.
 
-
 ![Architecture Image](images/results.png)
 
