@@ -17,3 +17,6 @@ We report the captioning results of our DF-MSRformer model on 12 types of target
 
 ![Results Image](images/results.png)
 
+## Statement
+
+This dataset is provided for **scientific research purposes only**.
